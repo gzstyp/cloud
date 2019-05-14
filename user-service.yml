@@ -1,0 +1,34 @@
+﻿spring:
+  profiles: default
+  application:
+    name: userService
+server:
+  port: 81
+---
+spring:
+  profiles: dev
+  application:
+    name: userService
+server:
+  port: 82
+---
+spring:
+  profiles: test
+  application:
+    name: userService
+server:
+  port: 83
+---
+spring:
+  profiles: local
+  application:
+    name: userService
+server:
+  port: 84
+---
+spring:
+  profiles: uat
+  application:
+    name: userService
+server:
+  port: 85
