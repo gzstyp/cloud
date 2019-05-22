@@ -31,4 +31,4 @@ spring:
   application:
     name: userService
 server:
-  port: 85
+  port: '{cipher}AQBLzrHCh5YGxzxhMFHyVjUNuSaYyBhusuuU9kN8BLZFsiR2sI33x+vXmgYviP0mlFifdCGdfdKxl3NWMVfbiELgb6bQOb2aE5Fq1MUesVvy4vbG4DTywMEjnHOwbkgf1C98Zbb6Uz3rtA9HWRrDZMBekOYkWtG6K+UtokkVAbfMgQDI2GG0/iGj8NU3kdcsoYoNcia3zmdCO2jklbuFHGdQao1muT9wk7OqC9U2rvT3wYuEu0Gs/YmBJqn+j7uZQMrrWVl1LWQEXKfsaJsL5/uq3chAY0L7oNvdejQtcX0DB3m9h37Bjq7/0xtiW9leJh97PHEVhKgU5hc355JW2wlsEg2Qt/FRyE3H1Mq5GeZOqwkDfY3/8me91eTGZqCqBIM='
