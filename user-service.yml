@@ -50,7 +50,7 @@ spring:
     username: root
     password: rootFwtai
 server:
-  port: 991
+  port: 9910
 ---
 spring:
   profiles: uat
