@@ -67,8 +67,8 @@ spring:
 server:
   port: 991
 girl:
-  name: 田卓智
-  age: 2
+  name: 田卓2智
+  age: 3
 ---
 spring:
   profiles: uat
