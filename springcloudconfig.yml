@@ -67,8 +67,8 @@ spring:
 server:
   port: 991
 girl:
-  name: 田0智
-  age: 20
+  name: 田智
+  age: 2
 ---
 spring:
   profiles: uat
