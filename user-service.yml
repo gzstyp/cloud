@@ -67,8 +67,8 @@ spring:
 server:
   port: 991
 girl:
-  name: 田卓智s
-  age: 3
+  name: 田应平
+  age: 34
 ---
 spring:
   profiles: uat
