@@ -67,8 +67,8 @@ spring:
 server:
   port: 991
 girl:
-  name: 田6平
-  age: 35
+  name: 田334平
+  age: 354
 ---
 spring:
   profiles: uat
