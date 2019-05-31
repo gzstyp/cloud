@@ -67,7 +67,7 @@ spring:
 server:
   port: 991
 girl:
-  name: 田
+  name: 田卓智
   age: 2
 ---
 spring:
