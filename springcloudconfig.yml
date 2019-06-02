@@ -16,7 +16,7 @@ server:
   port: 82
 girl:
   name: hgl
-  age: 36
+  age: 38
 ---
 spring:
   profiles: test
