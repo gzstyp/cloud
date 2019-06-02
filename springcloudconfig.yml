@@ -67,7 +67,7 @@ spring:
 server:
   port: 991
 girl:
-  name: 田应平
+  name: zjy
   age: 34
 ---
 spring:
