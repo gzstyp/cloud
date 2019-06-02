@@ -25,7 +25,7 @@ spring:
 server:
   port: 8022
 girl:
-  name: hgl
+  name: 田应平
   age: 18
 ---
 spring:
