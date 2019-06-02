@@ -16,7 +16,17 @@ server:
   port: 82
 girl:
   name: hgl
-  age: 189
+  age: 180
+---
+spring:
+  profiles: refresh
+  application:
+    name: userService
+server:
+  port: 8022
+girl:
+  name: hgl
+  age: 18
 ---
 spring:
   profiles: test
