@@ -67,8 +67,8 @@ spring:
 server:
   port: 991
 girl:
-  name: zjy
-  age: 34
+  name: zjy0
+  age: 58
 ---
 spring:
   profiles: uat
