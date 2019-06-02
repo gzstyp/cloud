@@ -1,0 +1,14 @@
+﻿server:
+  port: 9091
+spring:
+  application:
+    name: order
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka/
+  instance:
+    prefer-ip-address: true
+girl:
+  name: 黄桂兰
+  age: 36
