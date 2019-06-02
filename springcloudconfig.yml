@@ -21,7 +21,7 @@ girl:
 spring:
   profiles: refresh
   application:
-    name: userService
+    name: refreshService
 server:
   port: 8022
 girl:
