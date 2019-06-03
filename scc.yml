@@ -25,5 +25,5 @@ spring:
 server:
   port: 8022
 girl:
-  name: 田艳
-  age: 32
+  name: 张继英
+  age: 58
