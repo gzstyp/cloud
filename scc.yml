@@ -1,0 +1,39 @@
+﻿spring:
+  profiles: default
+  application:
+    name: sccService
+server:
+  port: 810
+girl:
+  name: hgl
+  age: 36
+---
+spring:
+  profiles: dev
+  application:
+    name: sccService
+server:
+  port: 820
+girl:
+  name: hgl
+  age: 120
+---
+spring:
+  profiles: refresh
+  application:
+    name: sccService
+server:
+  port: 8022
+girl:
+  name: 田应平
+  age: 18
+---
+spring:
+  profiles: test
+  application:
+    name: sccService
+server:
+  port: 830
+girl:
+  name: hgl
+  age: 36
