@@ -25,5 +25,5 @@ spring:
 server:
   port: 8022
 girl:
-  name: hgl
-  age: 2
+  name: 黄桂兰
+  age: 36
