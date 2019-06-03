@@ -21,7 +21,7 @@ girl:
 spring:
   profiles: refresh
   application:
-    name: sccService
+    name: refreshService
 server:
   port: 8022
 girl:
