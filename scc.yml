@@ -16,7 +16,7 @@ server:
   port: 820
 girl:
   name: hgl
-  age: 120
+  age: 18
 ---
 spring:
   profiles: refresh
@@ -25,7 +25,7 @@ spring:
 server:
   port: 8022
 girl:
-  name: 田应平
+  name: 田应平0
   age: 18
 ---
 spring:
