@@ -25,7 +25,7 @@ spring:
 server:
   port: 8022
 girl:
-  name: 田应平0
+  name: 田卓智
   age: 18
 ---
 spring:
